@@ -1,6 +1,6 @@
 {
-  "name": "my-electron-app",
-  "productName": "ALS Test App",
+  "name": "Image Resizer",
+  "productName": "Image Resizer",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
